@@ -13,6 +13,7 @@ router.get("/notes", (req, res) => {
 });
 
 router.post("/notes", (req, res) => {
+  console.log(req.body);
   if (!req.body.id) {
     req.body.id = uuidv4();
     createNote(req.body, notes);
