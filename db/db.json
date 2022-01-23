@@ -9,6 +9,16 @@
       "id": "2",
       "title": "go to the gym",
       "text": "workout"
+    },
+    {
+      "id": "1",
+      "title": "get groceries",
+      "text": "go to wholefoods"
+    },
+    {
+      "id": "3",
+      "title": "buy a car",
+      "text": "go on carvana and buy a car"
     }
   ]
 }
